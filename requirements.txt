@@ -1,0 +1,8 @@
+IETK_Ret==0.1.1
+matplotlib==3.9.3
+numpy==1.25.2
+opencv_contrib_python==4.10.0.84
+opencv_python_headless==4.10.0.84
+Pillow==11.0.0
+skimage==0.0
+streamlit==1.40.2
